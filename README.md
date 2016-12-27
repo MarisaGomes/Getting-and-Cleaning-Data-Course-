@@ -10,8 +10,8 @@ the repo with your scripts. This repo explains how all of the scripts work and h
 
 #What you find in this repository: 
 
-`CodeBook.md` describes the R codes that are to use.
-
 `run_analysis.R` contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
+
+`CodeBook.md` describes the steps in the R codes that are to use.
 
 `secTidySet.txt` is the independent tidy data set with the average of each variable for each activity and each subject ask in the 5th step of the Project.
