@@ -8,9 +8,10 @@ transformations or work that you performed to clean up the data called CodeBook.
 the repo with your scripts. This repo explains how all of the scripts work and how they are connected.
 
 
-#What you find in this repository
-Code book.md: information about raw and tidy data set and elaboration made to transform them
-LICENSE: license terms for text and code
-README.md: this file
-run_analysis.R: R script to transform raw data set in a tidy one
+#What you find in this repository: 
 
+`CodeBook.md` describes the R codes that are to use.
+
+`run_analysis.R` contains all the code to perform the analyses described in the 5 steps. They can be launched in RStudio by just importing the file.
+
+`secTidySet.txt` is the independent tidy data set with the average of each variable for each activity and each subject ask in the 5th step of the Project.
